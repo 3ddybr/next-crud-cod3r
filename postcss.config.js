@@ -11,8 +11,8 @@ const purgecss = [
   {
     // Specify the paths to all of the template files
     content: [
-      './pages/**/*.{js,jsx,ts,tsx}',
-      './components/**/*.{js,jsx,ts,tsx}',
+      '.src/pages/**/*.{js,ts,jsx,tsx}',
+      '.src/components/**/*.{js,ts,jsx,tsx}',
     ],
     // This is the function used to extract class names from the templates
     defaultExtractor: (content) => {
