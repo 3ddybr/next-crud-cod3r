@@ -6,4 +6,4 @@ configurar um arquivo .env.local com suas configurações do projeto criado no f
 yarn (para instalar as dependências)
 yarn dev (para rodar o projeto na sua maquina)
 
-https://next-crud-cod3r.vercel.app/
+https://next-crud-cod3r-five.vercel.app/
